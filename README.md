@@ -3,7 +3,8 @@
 ## 👤 Identitas
 - Nama: Muhammad Kamil Marzuqi Aziz
 - Mata Kuliah: Pemrograman Web 2
-- Kelas: (isi sesuai kelas kamu)
+- Kelas: TIF K 23B
+- NIM: 25552012061
 
 ---
 
